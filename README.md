@@ -14,6 +14,5 @@ En este repositorio encontrarán 5 archivos:
 4. *Respuestas*: la resolución a las consignas impartidas por Adalab y
 5. *README*: Breve introducción al repositorio
 
-*Carpeta src*: dentro está el archivo .py con las funciones que fueron importadas al archivo Respuestas para la resolución de las consignas.
 
 
